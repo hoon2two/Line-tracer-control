@@ -8,7 +8,7 @@ Prerequisites : Opencv 4.6, Gstreamer, and Dynamixel C++ SDK
 
 How to download, build, and run on Jetson nano
 
-$ git clone https://github.com/hoon2two/Dynamixel-direction-control.git
+$ git clone https://github.com/hoon2two/Line-tracer-control.git
 
 $ cd dxl
 
